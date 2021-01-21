@@ -1,0 +1,22 @@
+body {
+
+}
+
+
+img {
+  width: 12%;
+  height: auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.outline {
+  margin: 20px 0;
+  outline: 7px solid white;
+}
+
+.navbar-brand {
+}
